@@ -9,3 +9,5 @@ BoardController {
 		// ...
 	}
 }
+
+또 어떠한 기능 기능 
